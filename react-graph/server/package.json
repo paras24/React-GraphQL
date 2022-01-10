@@ -1,0 +1,31 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "React-Graphql-Poc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paras24/ReactGraphQLProject.git"
+  },
+  "author": "Paras Tandon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paras24/ReactGraphQLProject/issues"
+  },
+  "homepage": "https://github.com/paras24/ReactGraphQLProject#readme",
+  "dependencies": {
+    "apollo-server-express": "^3.6.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.8.0",
+    "graphql-tag": "^2.12.6",
+    "graphql-tools": "^8.2.0",
+    "loadash": "^1.0.0",
+    "mongoose": "^6.1.5",
+    "nodemon": "^2.0.15"
+  }
+}
