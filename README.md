@@ -17,18 +17,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### How To Setup Project:
      
-    After Downloading project from git-hub
+    After downloading source code from git-hub
 	
-    **First Go-To server folder path**
+    **Step 1 - Go to server folder path --> ~\React-GraphQL\react-graph\server**
     
-    >>Install all depenedency using "npm-install"
-    >>Run project using nodemon command "nodemon app"
-    ------It will log connected message to your console-------
+    >>Install all the depenedencies using command "npm-install"
+    >>Run project using the nodemon command : "nodemon app"
+    ------This will show a connection established message on the console-------
     
-    **Second Go-To client side folder path**
+    **Step 2 - Go to client folder path --> ~\React-GraphQL\react-graph\client**
     
-    >>Install all dependency using :"npm-install"
-    >>Run client Side using:"npm-start"
+    >>Install all the dependencies using command "npm-install"
+    >>Now run client side using command "npm-start"
 
 
 ## Available Scripts
